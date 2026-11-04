@@ -1,0 +1,121 @@
+k=  1 p(k)=0.63212055882855767 err<=6.7e-16 max_states=1 maxseg=1 merges=1 time=2.0s
+k=  2 p(k)=0.55373967970314031 err<=1.1e-15 max_states=1 maxseg=2 merges=2 time=0.1s
+k=  3 p(k)=0.49658324276473231 err<=1.6e-15 max_states=2 maxseg=3 merges=3 time=0.0s
+k=  4 p(k)=0.46955773002873247 err<=2.0e-15 max_states=3 maxseg=3 merges=4 time=0.0s
+k=  5 p(k)=0.44145770486724878 err<=2.4e-15 max_states=4 maxseg=4 merges=5 time=0.0s
+k=  6 p(k)=0.42505870226351028 err<=2.9e-15 max_states=5 maxseg=6 merges=6 time=0.0s
+k=  7 p(k)=0.40848113050170032 err<=3.3e-15 max_states=8 maxseg=7 merges=7 time=0.0s
+k=  8 p(k)=0.39727770724785949 err<=3.8e-15 max_states=11 maxseg=9 merges=8 time=0.0s
+k=  9 p(k)=0.38516442695850328 err<=4.2e-15 max_states=15 maxseg=10 merges=9 time=0.2s
+k= 10 p(k)=0.37687192153337057 err<=4.7e-15 max_states=18 maxseg=12 merges=10 time=0.0s
+k= 11 p(k)=0.36773064460983729 err<=5.1e-15 max_states=26 maxseg=13 merges=11 time=0.0s
+k= 12 p(k)=0.36119414872861666 err<=5.6e-15 max_states=36 maxseg=15 merges=12 time=0.0s
+k= 13 p(k)=0.35396067710683232 err<=6.0e-15 max_states=47 maxseg=16 merges=13 time=0.0s
+k= 14 p(k)=0.34855006583855019 err<=6.4e-15 max_states=55 maxseg=18 merges=14 time=0.0s
+k= 15 p(k)=0.34256331026992415 err<=6.9e-15 max_states=72 maxseg=19 merges=15 time=0.0s
+k= 16 p(k)=0.33807249135391970 err<=7.3e-15 max_states=100 maxseg=21 merges=16 time=0.0s
+k= 17 p(k)=0.33297332645858457 err<=7.8e-15 max_states=124 maxseg=22 merges=17 time=0.3s
+k= 18 p(k)=0.32907587672708238 err<=8.2e-15 max_states=152 maxseg=24 merges=18 time=0.0s
+k= 19 p(k)=0.32472907772868553 err<=8.7e-15 max_states=202 maxseg=25 merges=19 time=0.0s
+k= 20 p(k)=0.32132422463554255 err<=9.1e-15 max_states=259 maxseg=27 merges=20 time=0.1s
+k= 21 p(k)=0.31750064563869984 err<=9.5e-15 max_states=311 maxseg=32 merges=21 time=0.2s
+k= 22 p(k)=0.31449861822571268 err<=1.0e-14 max_states=394 maxseg=30 merges=22 time=0.0s
+k= 23 p(k)=0.31110427830250553 err<=1.0e-14 max_states=490 maxseg=34 merges=23 time=0.0s
+k= 24 p(k)=0.30842280301316527 err<=1.1e-14 max_states=622 maxseg=33 merges=24 time=0.1s
+k= 25 p(k)=0.30538904380814125 err<=1.1e-14 max_states=739 maxseg=45 merges=25 time=0.1s
+k= 26 p(k)=0.30295360703892171 err<=1.2e-14 max_states=918 maxseg=36 merges=26 time=0.1s
+k= 27 p(k)=0.30021507905047040 err<=1.2e-14 max_states=1131 maxseg=47 merges=27 time=0.1s
+k= 28 p(k)=0.29801339741466115 err<=1.3e-14 max_states=1425 maxseg=39 merges=28 time=0.1s
+k= 29 p(k)=0.29550915149253176 err<=1.3e-14 max_states=1706 maxseg=60 merges=29 time=0.1s
+k= 30 p(k)=0.29348610961340649 err<=1.4e-14 max_states=2040 maxseg=42 merges=30 time=0.1s
+k= 31 p(k)=0.29120365032921747 err<=1.4e-14 max_states=2483 maxseg=62 merges=31 time=0.1s
+k= 32 p(k)=0.28933850086728663 err<=1.4e-14 max_states=3075 maxseg=45 merges=32 time=0.1s
+k= 33 p(k)=0.28723062859571480 err<=1.5e-14 max_states=3572 maxseg=77 merges=33 time=0.1s
+k= 34 p(k)=0.28550675941592285 err<=1.5e-14 max_states=4425 maxseg=48 merges=34 time=0.1s
+k= 35 p(k)=0.28355244098013532 err<=1.6e-14 max_states=5180 maxseg=79 merges=35 time=0.1s
+k= 36 p(k)=0.28195152624640007 err<=1.6e-14 max_states=6381 maxseg=51 merges=36 time=0.1s
+k= 37 p(k)=0.28013746117894656 err<=1.7e-14 max_states=7480 maxseg=96 merges=37 time=0.1s
+k= 38 p(k)=0.27863606166288091 err<=1.7e-14 max_states=8939 maxseg=54 merges=38 time=0.1s
+k= 39 p(k)=0.27694373816069107 err<=1.8e-14 max_states=10366 maxseg=98 merges=39 time=0.1s
+k= 40 p(k)=0.27554286560805341 err<=1.8e-14 max_states=12468 maxseg=57 merges=40 time=0.1s
+k= 41 p(k)=0.27395201264998859 err<=1.8e-14 max_states=14666 maxseg=117 merges=41 time=0.1s
+k= 42 p(k)=0.27263373499992472 err<=1.9e-14 max_states=17463 maxseg=60 merges=42 time=0.1s
+k= 43 p(k)=0.27114293357605479 err<=1.9e-14 max_states=20619 maxseg=119 merges=43 time=0.1s
+k= 44 p(k)=0.26989827225461682 err<=2.0e-14 max_states=24544 maxseg=63 merges=44 time=0.1s
+k= 45 p(k)=0.26849214308788760 err<=2.0e-14 max_states=28044 maxseg=140 merges=45 time=0.1s
+k= 46 p(k)=0.26731683623399927 err<=2.1e-14 max_states=33618 maxseg=66 merges=46 time=0.1s
+k= 47 p(k)=0.26598601656490539 err<=2.1e-14 max_states=38770 maxseg=142 merges=47 time=0.1s
+k= 48 p(k)=0.26487395935402269 err<=2.2e-14 max_states=45626 maxseg=69 merges=48 time=0.1s
+k= 49 p(k)=0.26361452026055432 err<=2.2e-14 max_states=52422 maxseg=165 merges=49 time=0.1s
+k= 50 p(k)=0.26255453330113521 err<=2.2e-14 max_states=61207 maxseg=78 merges=50 time=0.1s
+k= 51 p(k)=0.26135991187962904 err<=2.3e-14 max_states=71202 maxseg=167 merges=51 time=0.1s
+k= 52 p(k)=0.26035428748287459 err<=2.3e-14 max_states=84220 maxseg=82 merges=52 time=0.1s
+k= 53 p(k)=0.25921443498679630 err<=2.4e-14 max_states=96532 maxseg=192 merges=53 time=0.1s
+k= 54 p(k)=0.25825516916758484 err<=2.4e-14 max_states=112060 maxseg=90 merges=54 time=0.1s
+k= 55 p(k)=0.25717097778930575 err<=2.5e-14 max_states=127022 maxseg=194 merges=55 time=0.1s
+k= 56 p(k)=0.25625356926427989 err<=2.5e-14 max_states=150224 maxseg=96 merges=56 time=0.1s
+k= 57 p(k)=0.25521815229170852 err<=2.6e-14 max_states=170632 maxseg=221 merges=57 time=0.2s
+k= 58 p(k)=0.25434097502408259 err<=2.6e-14 max_states=198001 maxseg=106 merges=58 time=0.2s
+k= 59 p(k)=0.25334931893066226 err<=2.6e-14 max_states=226531 maxseg=223 merges=59 time=0.2s
+k= 60 p(k)=0.25251003865371302 err<=2.7e-14 max_states=260439 maxseg=111 merges=60 time=0.2s
+k= 61 p(k)=0.25156094927932471 err<=2.7e-14 max_states=297642 maxseg=252 merges=61 time=0.2s
+k= 62 p(k)=0.25075331290633640 err<=2.8e-14 max_states=343044 maxseg=121 merges=62 time=0.2s
+k= 63 p(k)=0.24984374039244506 err<=2.8e-14 max_states=387658 maxseg=254 merges=63 time=0.2s
+k= 64 p(k)=0.24906954017438543 err<=2.9e-14 max_states=453272 maxseg=130 merges=64 time=0.2s
+k= 65 p(k)=0.24819375604484351 err<=2.9e-14 max_states=505398 maxseg=285 merges=65 time=0.2s
+k= 66 p(k)=0.24744894140540852 err<=3.0e-14 max_states=585028 maxseg=143 merges=66 time=0.3s
+k= 67 p(k)=0.24660811986119902 err<=3.0e-14 max_states=665889 maxseg=287 merges=67 time=0.2s
+k= 68 p(k)=0.24588977546228064 err<=3.0e-14 max_states=770645 maxseg=148 merges=68 time=0.2s
+k= 69 p(k)=0.24508030271602388 err<=3.1e-14 max_states=853253 maxseg=320 merges=69 time=0.2s
+k= 70 p(k)=0.24438808068076634 err<=3.1e-14 max_states=974371 maxseg=155 merges=70 time=0.2s
+k= 71 p(k)=0.24360678731325713 err<=3.2e-14 max_states=1105352 maxseg=322 merges=71 time=0.2s
+k= 72 p(k)=0.24293962784894430 err<=3.2e-14 max_states=1279090 maxseg=166 merges=72 time=0.2s
+k= 73 p(k)=0.24218618975530670 err<=3.3e-14 max_states=1427273 maxseg=357 merges=73 time=0.3s
+k= 74 p(k)=0.24153993957532227 err<=3.3e-14 max_states=1621009 maxseg=185 merges=74 time=0.3s
+k= 75 p(k)=0.24081294553541410 err<=3.4e-14 max_states=1801914 maxseg=359 merges=75 time=0.3s
+k= 76 p(k)=0.24018911892328965 err<=3.4e-14 max_states=2112370 maxseg=201 merges=76 time=0.3s
+k= 77 p(k)=0.23948485326255364 err<=3.4e-14 max_states=2337460 maxseg=396 merges=77 time=0.3s
+k= 78 p(k)=0.23888112964402997 err<=3.5e-14 max_states=2635561 maxseg=207 merges=78 time=0.3s
+k= 79 p(k)=0.23820054519972267 err<=3.5e-14 max_states=2982562 maxseg=398 merges=79 time=0.3s
+k= 80 p(k)=0.23761498847739781 err<=3.6e-14 max_states=3407120 maxseg=222 merges=80 time=0.3s
+k= 81 p(k)=0.23695607080082259 err<=3.6e-14 max_states=3781771 maxseg=437 merges=81 time=0.6s
+k= 82 p(k)=0.23638864850830776 err<=3.7e-14 max_states=4255548 maxseg=244 merges=82 time=0.4s
+k= 83 p(k)=0.23574919387162829 err<=3.7e-14 max_states=4809410 maxseg=439 merges=83 time=0.4s
+k= 84 p(k)=0.23519943786417719 err<=3.8e-14 max_states=5498624 maxseg=257 merges=84 time=0.4s
+k= 85 p(k)=0.23457950967516683 err<=3.8e-14 max_states=6069862 maxseg=480 merges=85 time=0.4s
+k= 86 p(k)=0.23404450571537694 err<=3.8e-14 max_states=6775030 maxseg=277 merges=86 time=0.5s
+k= 87 p(k)=0.23344339393614644 err<=3.9e-14 max_states=7637272 maxseg=482 merges=87 time=0.5s
+k= 88 p(k)=0.23292432376361982 err<=3.9e-14 max_states=8774222 maxseg=294 merges=88 time=0.5s
+k= 89 p(k)=0.23233936326125115 err<=4.0e-14 max_states=9716890 maxseg=525 merges=89 time=0.6s
+k= 90 p(k)=0.23183487808762793 err<=4.0e-14 max_states=10606072 maxseg=307 merges=90 time=0.7s
+k= 91 p(k)=0.23126692557784789 err<=4.1e-14 max_states=12188812 maxseg=527 merges=91 time=1.0s
+k= 92 p(k)=0.23077557330781229 err<=4.1e-14 max_states=13859483 maxseg=325 merges=92 time=0.7s
+k= 93 p(k)=0.23022339256013724 err<=4.2e-14 max_states=15248284 maxseg=572 merges=93 time=0.8s
+k= 94 p(k)=0.22974528076193057 err<=4.2e-14 max_states=16756095 maxseg=349 merges=94 time=0.9s
+k= 95 p(k)=0.22920726633702604 err<=4.2e-14 max_states=18986404 maxseg=574 merges=95 time=1.0s
+k= 96 p(k)=0.22874222501565900 err<=4.3e-14 max_states=21601467 maxseg=368 merges=96 time=1.1s
+k= 97 p(k)=0.22821857192607431 err<=4.3e-14 max_states=24033244 maxseg=621 merges=97 time=1.2s
+k= 98 p(k)=0.22776441603228559 err<=4.4e-14 max_states=26108204 maxseg=397 merges=98 time=1.3s
+k= 99 p(k)=0.22725473997351153 err<=4.4e-14 max_states=29713647 maxseg=623 merges=99 time=1.5s
+k=100 p(k)=0.22681245899157043 err<=4.5e-14 max_states=33356323 maxseg=423 merges=100 time=1.6s
+k=101 p(k)=0.22631480568107432 err<=4.6e-14 max_states=37270747 maxseg=672 merges=102 time=1.8s
+k=102 p(k)=0.22588353592645927 err<=4.6e-14 max_states=40298418 maxseg=453 merges=104 time=2.0s
+k=103 p(k)=0.22539859858905009 err<=4.8e-14 max_states=46284748 maxseg=674 merges=107 time=2.4s
+k=104 p(k)=0.22497721247378499 err<=5.0e-14 max_states=51836315 maxseg=477 merges=111 time=2.8s
+k=105 p(k)=0.22450424457530260 err<=5.0e-14 max_states=56801990 maxseg=725 merges=113 time=3.1s
+k=106 p(k)=0.22409289702391066 err<=5.2e-14 max_states=62057885 maxseg=501 merges=116 time=6.7s
+k=107 p(k)=0.22363065995200626 err<=5.3e-14 max_states=71155895 maxseg=727 merges=119 time=15.8s
+k=108 p(k)=0.22322931995384676 err<=5.4e-14 max_states=79284359 maxseg=519 merges=122 time=31.6s
+k=109 p(k)=0.22277802190997231 err<=5.6e-14 max_states=88518540 maxseg=780 merges=125 time=55.8s
+k=110 p(k)=0.22238503272875787 err<=5.7e-14 max_states=94292614 maxseg=547 merges=128 time=234.0s
+k=111 p(k)=0.22194450028647050 err<=5.8e-14 max_states=108465101 maxseg=782 merges=130 time=187.2s
+k=112 p(k)=0.22156067499161125 err<=5.9e-14 max_states=120958956 maxseg=582 merges=133 time=211.3s
+k=113 p(k)=0.22112936686929774 err<=6.1e-14 max_states=135063778 maxseg=837 merges=137 time=287.5s
+k=114 p(k)=0.22075411387732236 err<=6.2e-14 max_states=143848338 maxseg=624 merges=140 time=270.5s
+k=115 p(k)=0.22033265994556883 err<=6.5e-14 max_states=165284871 maxseg=843 merges=145 time=242.5s
+k=116 p(k)=0.21996507710362090 err<=6.6e-14 max_states=183797738 maxseg=658 merges=147 time=1029.1s
+k=117 p(k)=0.21955298882936969 err<=6.7e-14 max_states=204642284 maxseg=896 merges=151 time=316.3s
+k=118 p(k)=0.21919324973111576 err<=6.9e-14 max_states=218217391 maxseg=683 merges=154 time=472.8s
+k=119 p(k)=0.21878952557243403 err<=7.1e-14 max_states=252270517 maxseg=898 merges=159 time=875.9s
+k=120 p(k)=0.21843769073150276 err<=7.1e-14 max_states=275154717 maxseg=726 merges=160 time=846.6s
+k=121 p(k)=0.21804255071090128 err<=7.4e-14 max_states=312262679 maxseg=957 merges=166 time=1183.5s
